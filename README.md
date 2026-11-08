@@ -32,6 +32,15 @@ The three modules should be executed sequentially:
 
 The output of each module serves as the input to the subsequent processing step.
 
+## Requirements
+
+The required Python packages are listed in `requirements.txt`.
+
+Install the dependencies using:
+
+```bash
+pip install -r requirements.txt
+
 ## Repository Structure
 
 ```text
