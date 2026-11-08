@@ -40,6 +40,7 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Repository Structure
 
@@ -49,5 +50,7 @@ ICESat2-Crevasse-Detection-and-Depth-Retrieval/
 ├── 01_roughness_screening.py
 ├── 02_photon_denoising.py
 ├── 03_crevasse_extraction.py
+├── requirements.txt
 ├── README.md
 └── .gitignore
+```
